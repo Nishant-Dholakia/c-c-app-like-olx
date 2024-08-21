@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Georgia, Times, serif;    
+}
+body *
+{
+    margin: 1vmin;
+    
+    
+}
+body
+{
+    width: 70vw;
+    margin: auto;
+    padding-top: 8vh;
+}
+div
+{
+    font-weight: 600;
+    font-size: larger;
+}
+button,#login,#signup
+{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+}
